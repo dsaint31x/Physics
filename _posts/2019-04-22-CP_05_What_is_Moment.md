@@ -58,7 +58,7 @@ tags: moment
   * 전류가 loop를 이루어 돌고 있을 경우엔 $MM=IA$로 정의되며, right hand rule에 의해 방향이 결정됨.
      * $I$ 는 전류의 세기(Ampere)이고 $A$는 loop의 면적.
      * ![right_hand_rule](https://docs.google.com/drawings/d/e/2PACX-1vS-DnIzWKQ2ZzIzC73jUNvDQNHEtXov6SF8iGzRUUflLWKd92FRa8dho_m6EGdRIkIX6Ka4__2RfZOD/pub?w=286&h=162)
-    * 자석은 미시적 원자 전류에 의한 Magnetic moment 중의 하나로고 볼 수 있음.
+    * 자석은 미시적 원자 전류에 의한 Magnetic moment 중의 하나로도 볼 수 있음.
 
 > 전자와 양성자는 전하량을 갖는 것 외에 고유한 '자기 모멘트' 값도 가짐.
 > 즉, 전자와 양성자는 N 극과 S 극의 두 개의 자극을 가진 일종의 자석인 셈.
