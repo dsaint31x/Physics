@@ -1,6 +1,6 @@
 ---
 title:  "[Physics] Moment "
-date:   2018-04-23 20:33:59
+date:   2019-04-22 20:33:59
 author: dsaint31
 categories: Physics
 use_math: true
@@ -8,9 +8,9 @@ tags: moment
 ---
 
 # What is Moment?
-@(Physics)[#moment]
+@(Physics)[moment]
 
-### Moment (모멘트)
+## Moment (모멘트)
 
 * **어떤 물리량**과 **어떤 기준점에 대한 거리**를 곱한 형태의 물리량.  (거리가 몇 제곱이 될 수도 있음.)
   * 여기서의 곱은 **scalar product**일수도 있고 **vector product**일수도 있음.
@@ -23,12 +23,14 @@ tags: moment
      * $\rho(r)$ : position vector $r$이 가르치는 점에서의 physical quantity. 대상 물리량의 밀도라고 생각하면 됨.
 * 일반적으로 **회전 과 관련이 있는 물리량**을 나타냄.
 
-### 물리학에서의 Moment
+## 물리학에서의 Moment
 
-#### 관성 모멘트 (moment of inertia, rotational inerti)
+### 관성 모멘트 (moment of inertia, rotational inertia)
 
 회전관성으로 회전 운동에서 mass(질량)에 해당.
+
 기호는 $I$이나 전류의 기호 $I$와 혼동되는 경우 $J$를 씀.
+
 물체의 질점의 분포에 따라 달라지지만 크기가 $mr^2$에 상수배 된 수식으로 구해지며, 때문에 **질량의 2차 모멘트** 로 불림.
 
 * torque와 관계 : $\tau = I\alpha$
@@ -36,8 +38,10 @@ tags: moment
 * 다양한 moment of inertia 
   * ![rotational_inertia](https://docs.google.com/drawings/d/e/2PACX-1vQs8iTPbY0wzF5erHS7jS2-b7w9QtwEkIMZngKl4YisJmkQLAPTsDe2QGc3J-bW7p2vcNWVzIZetT7A/pub?w=460&h=282)
 
-#### 그 외 moment (Electric dipole moment,  Magnetic Moment)
+### 그 외 moment (Electric dipole moment,  Magnetic Moment)
+
 전기장 또는 자기장이 주어졌을 때 물체가 얼마나 많은 회전력을 받느냐의 정도를 뜻함. 
+
 그 물체를 구성하는 전하(electric charge)나 자극(magnetic pole)의 구조에 의해 결정되는 물리량.
 	
 * Electric dipole moment (전기 쌍극자 모멘트) :
@@ -68,7 +72,7 @@ tags: moment
 * 차이점
   * torque는 $\tau = I\alpha$ 로 정의되고 실제로 회전이 이루어질 때의 회전하는 힘
      * $I$ : moment of inertia, $\alpha$ : angular acceleration (각가속도)
-  * moment는 $M = r × F$ 로 정의되고 회전이 없을 때의 회전하려는 힘.* 
+  * moment는 $M = r × F$ 로 정의되고 회전이 없을 때의 회전하려는 힘. 
      * $r$ : 회전축과 힘이 가해지는 곳 간의 거리, $F$ : 힘.
 * 서로 단위는 같고 본질적인 뜻은 같아 많은 경우 서로 호환됨.
 * 물리(역학)에선 그냥 torque로 2개 개념을 같이 사용.
