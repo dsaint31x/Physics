@@ -89,7 +89,7 @@ $$
 \end{align*}
 $$
 
-## 다음의 velocity vector에 대해, unit tangent vector와 unit normal vector를 구하시오.
+## 다음의 vector에 대해, unit tangent vector와 unit normal vector를 구하시오.
 
 $$
 \vec{v}(t)= [t,\cos{t},\sin{t}]
